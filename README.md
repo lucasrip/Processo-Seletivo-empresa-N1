@@ -1,5 +1,5 @@
-#Projeto ecommerce de jogos
-##Processo Seletivo N1
+# Projeto ecommerce de jogos :grinning:
+## Processo Seletivo N1
 
 ### O projeto foi criado com sua forma padrao a npx create-react-app
 
@@ -20,4 +20,4 @@
 2 [link dos recursos de gravacao e print](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 
 ### Gravação do projeto
-[link do video do projeto](https://youtu.be/_SOJcJkBeuk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SOJcJkBeuk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
