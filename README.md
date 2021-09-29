@@ -1,3 +1,5 @@
+<img src="https://github.com/lucasrip/Processo-Seletivo-empresa-N1/blob/main/CapturasProjeto/logoLucas.svg" alt="drawing" width="150" height="150"/>
+
 # Projeto ecommerce de jogos :grinning:
 ## Processo Seletivo N1
 
@@ -9,7 +11,7 @@
  3 react-router-dom ,
  4  Hooks api
  
-###foram usados para os icones o site remix-icons
+### foram usados para os icones o site remix-icons
 [link do site remix-icons](https://remixicon.com/)
 
 ### O prototipo ou wireframe do projeto e alguns icones e imagens 
@@ -21,3 +23,7 @@
 
 ### Gravação do projeto
 !https://www.youtube.com/watch?v=_SOJcJkBeuk
+
+### Caso queira ver mais imagens
+
+!https://github.com/lucasrip/Processo-Seletivo-empresa-N1/tree/main/CapturasProjeto
