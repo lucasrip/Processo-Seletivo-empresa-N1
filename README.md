@@ -24,6 +24,9 @@
 ### Gravação do projeto
 !https://www.youtube.com/watch?v=_SOJcJkBeuk
 
-### Caso queira ver mais imagens
+### Caso queira ver mais imagens, imagens em alguns tamanhos de telas [2000,1900,1375,500,375] px
 
-!https://github.com/lucasrip/Processo-Seletivo-empresa-N1/tree/main/CapturasProjeto
+https://github.com/lucasrip/Processo-Seletivo-empresa-N1/tree/main/CapturasProjeto
+
+### uma imagem vale mais que mil palavras um vidio e sem igual mas o app em producao nao tem preço :laughing:
+https://processo-seletivo-empresa-n1-ecvv2gahb-lucasrip.vercel.app/
