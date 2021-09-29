@@ -20,4 +20,4 @@
 2 [link dos recursos de gravacao e print](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
 
 ### Gravação do projeto
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SOJcJkBeuk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+!https://www.youtube.com/watch?v=_SOJcJkBeuk
